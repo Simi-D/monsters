@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simi-D/monsters/static/css/main.c78e909d.css",
+    "main.js": "/Simi-D/monsters/static/js/main.bf3120af.js",
+    "static/js/787.71774a75.chunk.js": "/Simi-D/monsters/static/js/787.71774a75.chunk.js",
+    "index.html": "/Simi-D/monsters/index.html",
+    "main.c78e909d.css.map": "/Simi-D/monsters/static/css/main.c78e909d.css.map",
+    "main.bf3120af.js.map": "/Simi-D/monsters/static/js/main.bf3120af.js.map",
+    "787.71774a75.chunk.js.map": "/Simi-D/monsters/static/js/787.71774a75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c78e909d.css",
+    "static/js/main.bf3120af.js"
+  ]
+}
